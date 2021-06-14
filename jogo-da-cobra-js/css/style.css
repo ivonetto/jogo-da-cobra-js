@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: darkgrey;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
